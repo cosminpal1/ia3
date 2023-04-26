@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  12 APR 2023 10:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  12 APR 2023 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Paliciuc Cosmin-Constantin_313AC_tema2_slide.tex"
-(Paliciuc Cosmin-Constantin_313AC_tema2_slide.tex
+**./tuti.tex
+(tuti.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -781,8 +781,8 @@ tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 \l__pdf_internal_box=\box76
-) (Paliciuc Cosmin-Constantin_313AC_tema2_slide.aux)
-\openout1 = `"Paliciuc Cosmin-Constantin_313AC_tema2_slide.aux"'.
+) (tuti.aux)
+\openout1 = `tuti.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -864,10 +864,9 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 3.
- (Paliciuc Cosmin-Constantin_313AC_tema2_slide.out)
-(Paliciuc Cosmin-Constantin_313AC_tema2_slide.out)
+ (tuti.out) (tuti.out)
 \@outlinefile=\write5
-\openout5 = `"Paliciuc Cosmin-Constantin_313AC_tema2_slide.out"'.
+\openout5 = `tuti.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 3.
@@ -945,79 +944,69 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-(Paliciuc Cosmin-Constantin_313AC_tema2_slide.nav) [1
+) (tuti.nav) [1
 
 {C:/Users/cosmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+<Picture1.png, id=41, 744.53156pt x 493.0922pt>
+File: Picture1.png Graphic file (type png)
+<use Picture1.png>
+Package pdftex.def Info: Picture1.png  used on input line 14.
+(pdftex.def)             Requested size: 307.28987pt x 203.5159pt.
+ [2
+
+ <./Picture1.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 19.
+ut line 29.
 
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [2
+) [3
 
-]
-<Picture1.png, id=72, 223.58531pt x 154.32657pt>
-File: Picture1.png Graphic file (type png)
-<use Picture1.png>
-Package pdftex.def Info: Picture1.png  used on input line 26.
-(pdftex.def)             Requested size: 307.28987pt x 212.12312pt.
- [3
-
- <./Picture1.png>] [4
-
-] [5
+] [4
 
 ]
 \tf@nav=\write6
-\openout6 = `"Paliciuc Cosmin-Constantin_313AC_tema2_slide.nav"'.
+\openout6 = `tuti.nav'.
 
 \tf@toc=\write7
-\openout7 = `"Paliciuc Cosmin-Constantin_313AC_tema2_slide.toc"'.
+\openout7 = `tuti.toc'.
 
 \tf@snm=\write8
-\openout8 = `"Paliciuc Cosmin-Constantin_313AC_tema2_slide.snm"'.
+\openout8 = `tuti.snm'.
 
-
-(Paliciuc Cosmin-Constantin_313AC_tema2_slide.aux)
-Package rerunfilecheck Info: File `"Paliciuc Cosmin-Constantin_313AC_tema2_slid
-e".out' has not changed.
+ (tuti.aux)
+Package rerunfilecheck Info: File `tuti.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21501 strings out of 475385
- 424773 string characters out of 2776907
- 723362 words of memory out of 3000000
- 42418 multiletter control sequences out of 15000+600000
- 480113 words of font info for 67 fonts, out of 8000000 for 9000
+ 21458 strings out of 475385
+ 422567 string characters out of 2776907
+ 727158 words of memory out of 3000000
+ 42379 multiletter control sequences out of 15000+600000
+ 476009 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,122p,452b,556s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,14n,122p,410b,556s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb><C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmss10.pfb><C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/cosmi/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/cosmi/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/cosmi/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on "Paliciuc Cosmin-Constantin_313AC_tema2_slide.pdf" (5 pages, 
-104150 bytes).
+cmss10.pfb><C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmss12.pfb><C:/Users/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmss8.pfb>
+Output written on tuti.pdf (4 pages, 89900 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
