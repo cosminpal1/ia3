@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<head>
+<title>Tema_3_2</title> 
+</head>
+<body>
+    <h2>Introduceti datele Dvs. personale:</h2>
+<form action="echo.php">
+    <label for="fname">Nume:</label><br>
+    <input type="text" id="fname" name="fname" value="Paliciuc"><br>
+    <label for="fname">Prenume:</label><br>
+    <input type="text" id="fname" name="fname" value="Cosmin"><br>
+    <hr>
+    <label for="seria">Seria:</label>
+    <select name="serie" id="serie">
+        <option value="IAA">IAA</option>
+        <option value="IAB">IAB</option>
+        <option value="IAB">IAC</option>
+</select><br><br>
+<label for="radio">Grupa:</label><br>
+<input type="radio" id="311AC" name="Grupa" value="311AC">
+<label for="311AC">311AC</label><br>
+<input type="radio" id="312AC" name="Grupa" value="312AC">
+<label for="312AC">312AC</label><br>
+<input type="radio" id="313AC" name="Grupa" value="313AC">
+<label for="313AC">313AC</label><br>
+<input type="radio" id="314AC" name="Grupa" value="314AC">
+<label for="314AC">314AC</label><br>
+    <hr>
+<label for="limbi">Limbi straine cunoscute:</label>
+<input type="checkbox" id="franceza" name="limba[]" value="Franceza">
+<label for="franceza">Franceza</label>
+<input type="checkbox" id="engleza" name="limba[]" value="Engleza">
+<label for="engleza">Engleza</label>
+<input type="checkbox" id="germana" name="limba[]" value="Germana" checked>
+<label for="germana">Germana</label>
+<hr>
+<label for="feedback">Introduceti un feedback despre IA3-MD</label><br>
+<textarea id="feedback" name="feedback" rows="2" cols="20">
+IA3-MD util, dar prea putin.
+</textarea>
+<hr>
+<button>Trimite datele</button>
+<button>Sterge forma</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<date_personale>
+  <student>
+    <nume>Paliciuc</nume>
+    <prenume>Cosmin-Constantin</prenume>
+    <anul>IAC</anul>
+    <grupa>313AC</grupa>
+    <limbi_straine>
+          <l1>Engleza</l1>
+          <l2>Franceza</l2>
+          <l3>Spaniola</l3>
+     </limbi_straine>
+  </student>
+</date_personale>
