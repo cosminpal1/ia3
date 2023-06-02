@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  12 APR 2023 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  30 MAY 2023 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Paliciuc Cosmin-Constantin_313AC_tema3_articol.tex"
-(Paliciuc Cosmin-Constantin_313AC_tema3_articol.tex
+**"./Paliciuc Cosmin-Constantin_313AC_tema2_articol.tex"
+(Paliciuc Cosmin-Constantin_313AC_tema2_articol.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
 (C:\Users\cosmi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -336,8 +336,9 @@ tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box103
-) (Paliciuc Cosmin-Constantin_313AC_tema3_articol.aux)
-\openout1 = `"Paliciuc Cosmin-Constantin_313AC_tema3_articol.aux"'.
+)
+No file "Paliciuc Cosmin-Constantin_313AC_tema2_articol".aux.
+\openout1 = `"Paliciuc Cosmin-Constantin_313AC_tema2_articol.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -441,12 +442,12 @@ Package pdftex.def Info: Picture1.png  used on input line 76.
 [1
 
 {C:/Users/cosmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./Pictur
-e1.png>] (Paliciuc Cosmin-Constantin_313AC_tema3_articol.aux) ) 
+e1.png>] (Paliciuc Cosmin-Constantin_313AC_tema2_articol.aux) ) 
 Here is how much of TeX's memory you used:
- 5717 strings out of 475385
- 92397 string characters out of 2776907
- 441544 words of memory out of 3000000
- 27001 multiletter control sequences out of 15000+600000
+ 5714 strings out of 475385
+ 92166 string characters out of 2776907
+ 441553 words of memory out of 3000000
+ 27000 multiletter control sequences out of 15000+600000
  487213 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,90p,879b,530s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -466,10 +467,10 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/cosmi/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/cosmi/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
 s/cosmi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on "Paliciuc Cosmin-Constantin_313AC_tema3_articol.pdf" (2 pages
-, 112562 bytes).
+Output written on "Paliciuc Cosmin-Constantin_313AC_tema2_articol.pdf" (2 pages
+, 111937 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
+ 217 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
